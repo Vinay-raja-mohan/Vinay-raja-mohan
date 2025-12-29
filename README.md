@@ -96,22 +96,6 @@ I have a strong enthusiasm for discovering the newest advancements in technology
 </a> 
 </p>
 
-<p align="center">
-<a href="https://github.com/Vinay-raja-mohan">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-raja-mohan&theme=onedark&hide_border=true" />
-</a>
-</p>
-
-<br>
-
-<div id="header" align="center">
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Vinay-raja-mohan" alt="vinay" />
-</a>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=Vinay-raja-mohan&style=for-the-badge&color=orange" alt=""/>
 
 </div>
