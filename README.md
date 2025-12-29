@@ -1,19 +1,25 @@
-
 # Hi 👋, I'm Vinay Raja Mohan
 
-I am an enthusiastic developer currently in my Fourth year of B.Tech, concentrating on AI, Machine Learning, and Deep Learning. I take pleasure in creating AI-driven applications and keeping up with the most recent technological advancements.
+I’m an enthusiastic developer currently in my fourth year of B.Tech, focusing on **Artificial Intelligence, Machine Learning, and Deep Learning**.  
+
+I enjoy building AI-driven applications and staying updated with the latest technological advancements.
+
 ## 🚀 About Me
 
 **CSE (AI & ML) Student | Full-Stack Developer**
 
-I have a strong enthusiasm for discovering the newest advancements in technology, particularly in AI, I am keen to acquire knowledge and remain informed about new technologies while networking with skilled individuals to partner on exciting projects and concepts.
+I’m passionate about exploring cutting-edge technologies — especially AI.  
+I love learning new tools, collaborating with talented people, and working on projects that solve real-world problems.
+
+---
+
 ## Skill Set:
 
 <table>
 <tr>
 <td valign="top" width="25%">
 
-### Frontend  
+### Frontend
 <a href="https://github.com/Vinay-raja-mohan">
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
@@ -79,7 +85,7 @@ I have a strong enthusiasm for discovering the newest advancements in technology
 
 ---
 
-## 📊 Github Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
 <a href="https://github.com/Vinay-raja-mohan">
@@ -96,9 +102,8 @@ I have a strong enthusiasm for discovering the newest advancements in technology
 </a> 
 </p>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Vinay-raja-mohan&style=for-the-badge&color=orange" alt=""/>
-
 </div>
 
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
-
