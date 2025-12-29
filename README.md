@@ -1,13 +1,120 @@
-## Hi there 👋
 
-###
+# Hi 👋, I'm Vinay Raja Mohan
 
-<h3 align="left">🔥   My Stats :</h3>
+I am an enthusiastic developer currently in my Fourth year of B.Tech, concentrating on AI, Machine Learning, and Deep Learning. I take pleasure in creating AI-driven applications and keeping up with the most recent technological advancements.
+## 🚀 About Me
 
-###
+**CSE (AI & ML) Student | Full-Stack Developer**
+
+I have a strong enthusiasm for discovering the newest advancements in technology, particularly in AI, I am keen to acquire knowledge and remain informed about new technologies while networking with skilled individuals to partner on exciting projects and concepts.
+## Skill Set:
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/Vinay-raja-mohan">
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+</div>
+</a>
+
+</td>
+
+<td valign="top" width="25%">
+
+### Backend
+<a href="https://github.com/Vinay-raja-mohan">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&perline=4" />
+</div>
+</a>
+
+</td>
+
+<td valign="top" width="25%">
+
+### Languages
+<a href="https://github.com/Vinay-raja-mohan">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=4" /> 
+</div>
+</a>
+
+</td>
+
+<td valign="top" width="25%">
+
+### Others
+<a href="https://github.com/Vinay-raja-mohan">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord&perline=4" /> 
+</div>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Connect with me:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<a href="https://www.linkedin.com/in/gelli-t-n-s-v-vinay-raja-mohan-06575b256/" target="_blank">
+<img src="https://img.shields.io/badge/-Vinay%20Raja%20Mohan-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+
+<a target="_blank" href="mailto:mail2vinay2004@gmail.com">
+<img src="https://img.shields.io/badge/-mail2vinay2004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Vinayy_raj/" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode%20Profile-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
+
+## 📊 Github Stats:
+
+<p align="center">
+<a href="https://github.com/Vinay-raja-mohan">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinay-raja-mohan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vinay-raja-mohan&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
+</a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+<a href="https://github.com/Vinay-raja-mohan">
+<img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay-raja-mohan&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&title_color=FDFD96&border_radius=20"/>
+</a> 
+</p>
+
+<p align="center">
+<a href="https://github.com/Vinay-raja-mohan">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-raja-mohan&theme=onedark&hide_border=true" />
+</a>
+</p>
+
+<br>
+
+<div id="header" align="center">
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Vinay-raja-mohan" alt="vinay" />
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Vinay-raja-mohan&style=for-the-badge&color=orange" alt=""/>
+
+</div>
+
+<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+
